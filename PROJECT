@@ -9,7 +9,7 @@ repo: github.ibm.com/project-codeflare/instascale
 resources:
 - controller: true
   domain: my.domain
-  group: mcad.ibm.com
+  group: workload.codeflare.dev
   kind: AppWrapper
   version: v1beta1
 version: "0.0.1"

@@ -39,7 +39,7 @@ rules:
   - patch
 
 - apiGroups:
-  - mcad.ibm.com
+  - workload.codeflare.dev
   resources:
   - appwrappers
   verbs:
